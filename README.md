@@ -1,6 +1,4 @@
----
 
-````markdown
 # MUUD Health Backend
 
 This is the backend API service for the MUUD Health application, built as part of the MUUD Health Coding Challenge. It provides endpoints for journal entries, contact management, and user authentication.
